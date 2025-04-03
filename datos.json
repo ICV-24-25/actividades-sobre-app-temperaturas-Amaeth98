@@ -1,7 +1,7 @@
 {
 
-    "f:inicio":"",
-    "f:fin":"",
+    "f_inicio":"24/03/2025",
+    "f_fin":"30/03/2025",
     "localidades":[
         {
             "nombre":"Vera",
